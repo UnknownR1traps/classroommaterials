@@ -1,2 +1,10 @@
-neon_runner/index.html
-parkour_box/index.html
+neon_runner/index.html<html>
+  <body style="background:black;color:white;text-align:center;">
+    <h1>Offline Game Placeholder</h1>
+  </body>
+</html>
+parkour_box/index.html<html>
+  <body style="background:black;color:white;text-align:center;">
+    <h1>Offline Game Placeholder</h1>
+  </body>
+</html>
